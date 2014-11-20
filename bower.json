@@ -1,0 +1,5 @@
+{
+    "name": "cordova-css-reset",
+    "version": "2.5",
+    "main": "reset.css"
+}
