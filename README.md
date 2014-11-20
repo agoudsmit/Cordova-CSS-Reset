@@ -1,7 +1,12 @@
 CSS-Reset
 =========
 
-Improvements of [Eric Meyer's Reset CSS (v2.0)](http://meyerweb.com/eric/tools/css/reset/) :
+CSS Resetter adapted to Cordova & Phonegap projects including :
+
+* Making link selections transparent
+* Preventing callout to copy image
+* Preventing webkit from resizing text to fit
+* Preventing copy paste (add a `-webkit-user-select: text` to allow it)
 
 Releases Notes
 --------------
@@ -15,4 +20,3 @@ Releases Notes
 Package Manager
 ---------------
 
-* [Composer](http://packagist.org/packages/components/css-reset): `components/jquery`
