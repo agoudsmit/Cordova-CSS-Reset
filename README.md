@@ -24,3 +24,4 @@ Releases Notes
 * Version 2.4 : + `body { -webkit-font-smoothing: antialiased; }` to avoid aliasing on Chrome. (21/01/2014)
 * Version 2.5 : + `a { color: inherit; text-decoration: none; }` to avoid links auto-formatting. (28/01/2014)
 * Version 2.6 : + `button { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }` to avoid buttons auto-formatting. (23/11/2014)
+* Version 2.7 : + `body { font-size: 0 }` to avoid unwanted spaces between inline block elements. (20/12/2014)
